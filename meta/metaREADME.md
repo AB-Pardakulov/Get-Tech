@@ -1,0 +1,1 @@
+This directory will contain the apple touch icon png.
